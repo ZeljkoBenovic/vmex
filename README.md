@@ -4,6 +4,9 @@ The export functionality in the `vCenter` itself, exports all VMs into a `csv` f
 This tool aims to ease this export procedure, by exporting (`all` or `filtered by name`) VM into a nicely formatted Excel file.    
 
 ## Usage
+Download `vmex` binary for your OS from the [releases](https://github.com/ZeljkoBenovic/vmex/releases) page.   
+Run the binary with the appropriate flags, as shown in the [example](https://github.com/ZeljkoBenovic/vmex/releases) below.
+
 ### Flags
 * `host` - `vCenter` host url
 * `user` - `vCenter` username
